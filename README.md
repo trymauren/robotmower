@@ -12,3 +12,6 @@ Parts are also provided as .STL files.
 Note: the directory `control/RPi` must be removed when running the code on an RPi,
 as this is just a placeholder package for running the control code on a normal
 computer.
+
+<img src="figures/2.png" alt="drawing" width="200"/>
+<img src="figures/2.gif" alt="drawing" width="200"/>
